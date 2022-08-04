@@ -1234,7 +1234,7 @@ section {
   padding: 5rem 9%;
 }
 
-.btn a {
+.btn a,input {
   margin-top: 1rem;
   display: inline-block;
   padding: 1rem 2.8rem;
